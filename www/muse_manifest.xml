@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://macromia.com.br" resolutions="1x" timestamp="1481032454772">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="master_a-mestre.css" crc="337754183" ref="filtro:index:historico"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="4132269523" ref="filtro:index:historico"/>
+    <file name="filtro.css" crc="258422895" ref="filtro"/>
+    <file name="nomq_filtro.css" crc="376899202" ref="filtro"/>
+    <file name="iefonts_filtro.css" crc="3936982066" ref="filtro"/>
+    <file name="index.css" crc="66453170" ref="index"/>
+    <file name="nomq_index.css" crc="3809191106" ref="index"/>
+    <file name="iefonts_index.css" crc="3936982066" ref="index"/>
+    <file name="historico.css" crc="4047528217" ref="historico"/>
+    <file name="nomq_historico.css" crc="129694774" ref="historico"/>
+    <file name="iefonts_historico.css" crc="3936982066" ref="historico"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="filtro:index:historico"/>
+    <file name="museutils.js" crc="163421577" ref="filtro:index:historico"/>
+    <file name="whatinput.js" crc="86476730" ref="filtro:index:historico"/>
+    <file name="museconfig.js" crc="36584860" ref="filtro:index:historico"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="filtro"/>
+    <file name="jquery.watch.js" crc="104486786" ref="filtro:index:historico"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="filtro:index:historico"/>
+    <file name="require.js" crc="244322403" ref="filtro:index:historico"/>
+    <file name="webpro.js" crc="3848665353" ref="index:historico"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:historico"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4078911600" ref="filtro"/>
+    <file name="ativo 1.svg" crc="296760398" ref="filtro"/>
+    <file name="ativo 1_poster_u37602.png" crc="4019347156" ref="filtro"/>
+    <file name="ativo 2.svg" crc="536431724" ref="filtro"/>
+    <file name="ativo 2_poster_u37779.png" crc="4133684039" ref="filtro"/>
+  </folder>
+  <file name="filtro.html" crc="3908044600" seo="true" mt="1481032308518" redirect="true"/>
+  <file name="index.html" crc="181961065" seo="true" mt="1481032308518" redirect="true"/>
+  <file name="historico.html" crc="353254527" seo="true" mt="1481032394267" redirect="true"/>
+</manifest>
